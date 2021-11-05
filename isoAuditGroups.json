@@ -1,0 +1,486 @@
+[
+    {
+      "name": "A.5.1.1",
+      "category": "A.5 Information security policies",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/A.5.1.1"
+    },
+    {
+      "name": "A.5.1.2",
+      "category": "A.5 Information security policies",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.5.1.2"
+    },
+    {
+      "name": "A.6.1.1",
+      "category": "A.6 Organization of information security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/A.6.1.1"
+    },
+    {
+      "name": "A.6.1.2",
+      "category": "A.6 Organization of information security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/A.6.1.2"
+    },
+    {
+      "name": "A.6.1.3",
+      "category": "A.6 Organization of information security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/A.6.1.3"
+    },
+    {
+      "name": "A.6.1.4",
+      "category": "A.6 Organization of information security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/A.6.1.4"
+    },
+    {
+      "name": "A.6.1.5",
+      "category": "A.6 Organization of information security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/A.6.1.5"
+    },
+    {
+      "name": "A.6.2.1",
+      "category": "A.6 Organization of information security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/A.6.2.1"
+    },
+    {
+      "name": "A.6.2.2",
+      "category": "A.6 Organization of information security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/A.6.2.2"
+    },
+    {
+      "name": "A.7.1.1",
+      "category": "A.7 Human Resource Security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.7.1.1"
+    },
+    {
+      "name": "A.7.1.2",
+      "category": "A.7 Human Resource Security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.7.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.7.2.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.7.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.7.2.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.7.2.2"
+    },
+    {
+      "name": "ISO27001-2013_A.7.2.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.7.2.3"
+    },
+    {
+      "name": "ISO27001-2013_A.7.3.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.7.3.1"
+    },
+    {
+      "name": "ISO27001-2013_A.8.1.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.8.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.8.1.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.1.3"
+    },
+    {
+      "name": "ISO27001-2013_A.8.1.4",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.1.4"
+    },
+    {
+      "name": "A.8.2.1",
+      "category": "A.8 Asset Management",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.8.2.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.2.2"
+    },
+    {
+      "name": "ISO27001-2013_A.8.2.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.2.3"
+    },
+    {
+      "name": "ISO27001-2013_A.8.3.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.3.1"
+    },
+    {
+      "name": "ISO27001-2013_A.8.3.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.3.2"
+    },
+    {
+      "name": "ISO27001-2013_A.8.3.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.8.3.3"
+    },
+    {
+      "name": "ISO27001-2013_A.9.1.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.1.1"
+    },
+    {
+      "name": "A.9.1.2",
+      "category": "A.9 Access Control",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.9.2.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.9.2.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.2.2"
+    },
+    {
+      "name": "A.9.2.3",
+      "category": "A.9 Access Control",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.2.3"
+    },
+    {
+      "name": "A.9.2.4",
+      "category": "A.9 Access Control",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.2.4"
+    },
+    {
+      "name": "A.9.2.5",
+      "category": "A.9 Access Control",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.2.5"
+    },
+    {
+      "name": "A.9.2.6",
+      "category": "A.9 Access Control",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.2.6"
+    },
+    {
+      "name": "ISO27001-2013_A.9.3.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.3.1"
+    },
+    {
+      "name": "ISO27001-2013_A.9.4.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.4.1"
+    },
+    {
+      "name": "A.9.4.2",
+      "category": "A.9 Access Control",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.4.2"
+    },
+    {
+      "name": "A.9.4.3",
+      "category": "A.9 Access Control",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.4.3"
+    },
+    {
+      "name": "ISO27001-2013_A.9.4.4",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.4.4"
+    },
+    {
+      "name": "ISO27001-2013_A.9.4.5",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.9.4.5"
+    },
+    {
+      "name": "A.10.1.1",
+      "category": "A.10 Cyrptography",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/A.10.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.10.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.10.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.11.1.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.11.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.11.1.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.1.3"
+    },
+    {
+      "name": "ISO27001-2013_A.11.1.4",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.1.4"
+    },
+    {
+      "name": "ISO27001-2013_A.11.1.5",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.1.5"
+    },
+    {
+      "name": "ISO27001-2013_A.11.1.6",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.1.6"
+    },
+    {
+      "name": "ISO27001-2013_A.11.2.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.11.2.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.2.2"
+    },
+    {
+      "name": "ISO27001-2013_A.11.2.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.2.3"
+    },
+    {
+      "name": "ISO27001-2013_A.11.2.4",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.2.4"
+    },
+    {
+      "name": "ISO27001-2013_A.11.2.5",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.2.5"
+    },
+    {
+      "name": "ISO27001-2013_A.11.2.6",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.2.6"
+    },
+    {
+      "name": "ISO27001-2013_A.11.2.7",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.2.7"
+    },
+    {
+      "name": "ISO27001-2013_A.11.2.8",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.2.8"
+    },
+    {
+      "name": "ISO27001-2013_A.11.2.9",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.11.2.9"
+    },
+    {
+      "name": "ISO27001-2013_A.12.1.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.12.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.12.1.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.1.3"
+    },
+    {
+      "name": "ISO27001-2013_A.12.1.4",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.1.4"
+    },
+    {
+      "name": "ISO27001-2013_A.12.2.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.12.3.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.3.1"
+    },
+    {
+      "name": "A.12.4.1",
+      "category": "A.12 Operations security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.4.1"
+    },
+    {
+      "name": "ISO27001-2013_A.12.4.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.4.2"
+    },
+    {
+      "name": "A.12.4.3",
+      "category": "A.12 Operations security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.4.3"
+    },
+    {
+      "name": "A.12.4.4",
+      "category": "A.12 Operations security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.4.4"
+    },
+    {
+      "name": "A.12.5.1",
+      "category": "A.12 Operations security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.5.1"
+    },
+    {
+      "name": "A.12.6.1",
+      "category": "A.12 Operations security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.6.1"
+    },
+    {
+      "name": "A.12.6.2",
+      "category": "A.12 Operations security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.6.2"
+    },
+    {
+      "name": "ISO27001-2013_A.12.7.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.12.7.1"
+    },
+    {
+      "name": "A.13.1.1",
+      "category": "A.13 Communications security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.13.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.13.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.13.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.13.1.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.13.1.3"
+    },
+    {
+      "name": "A.13.2.1",
+      "category": "A.13 Communications security",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.13.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.13.2.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.13.2.2"
+    },
+    {
+      "name": "ISO27001-2013_A.13.2.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.13.2.3"
+    },
+    {
+      "name": "ISO27001-2013_A.13.2.4",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.13.2.4"
+    },
+    {
+      "name": "ISO27001-2013_A.14.1.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.14.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.14.1.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.1.3"
+    },
+    {
+      "name": "ISO27001-2013_A.14.2.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.14.2.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.2.2"
+    },
+    {
+      "name": "ISO27001-2013_A.14.2.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.2.3"
+    },
+    {
+      "name": "ISO27001-2013_A.14.2.4",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.2.4"
+    },
+    {
+      "name": "ISO27001-2013_A.14.2.5",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.2.5"
+    },
+    {
+      "name": "ISO27001-2013_A.14.2.6",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.2.6"
+    },
+    {
+      "name": "ISO27001-2013_A.14.2.7",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.2.7"
+    },
+    {
+      "name": "ISO27001-2013_A.14.2.8",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.2.8"
+    },
+    {
+      "name": "ISO27001-2013_A.14.2.9",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.2.9"
+    },
+    {
+      "name": "ISO27001-2013_A.14.3.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.14.3.1"
+    },
+    {
+      "name": "ISO27001-2013_A.15.1.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.15.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.15.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.15.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.15.1.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.15.1.3"
+    },
+    {
+      "name": "ISO27001-2013_A.15.2.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.15.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.15.2.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.15.2.2"
+    },
+    {
+      "name": "ISO27001-2013_A.16.1.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.16.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.16.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.16.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.16.1.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.16.1.3"
+    },
+    {
+      "name": "ISO27001-2013_A.16.1.4",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.16.1.4"
+    },
+    {
+      "name": "ISO27001-2013_A.16.1.5",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.16.1.5"
+    },
+    {
+      "name": "ISO27001-2013_A.16.1.6",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.16.1.6"
+    },
+    {
+      "name": "ISO27001-2013_A.16.1.7",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.16.1.7"
+    },
+    {
+      "name": "ISO27001-2013_A.17.1.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.17.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.17.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.17.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.17.1.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.17.1.3"
+    },
+    {
+      "name": "ISO27001-2013_A.17.2.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.17.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.18.1.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.18.1.1"
+    },
+    {
+      "name": "ISO27001-2013_A.18.1.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.18.1.2"
+    },
+    {
+      "name": "ISO27001-2013_A.18.1.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.18.1.3"
+    },
+    {
+      "name": "ISO27001-2013_A.18.1.4",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.18.1.4"
+    },
+    {
+      "name": "ISO27001-2013_A.18.1.5",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.18.1.5"
+    },
+    {
+      "name": "ISO27001-2013_A.18.2.1",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.18.2.1"
+    },
+    {
+      "name": "ISO27001-2013_A.18.2.2",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.18.2.2"
+    },
+    {
+      "name": "ISO27001-2013_A.18.2.3",
+      "additionalMetadataId": "/providers/Microsoft.PolicyInsights/policyMetadata/ISO27001-2013_A.18.2.3"
+    }
+  ]
