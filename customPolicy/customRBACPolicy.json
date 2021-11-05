@@ -1,0 +1,44 @@
+{
+  "properties": {
+    "displayName": "Custom roles are not allowed.",
+    "description": "This policy will audit or deny the creation of custom Azure RBAC roles.",
+    "mode": "All",
+    "policyType": "Custom",
+    "metadata": {
+      "category": "Security"
+    },
+    "parameters": {
+      "effect": {
+        "type": "String",
+        "metadata": {
+          "displayName": "Effect",
+          "description": "Enable or disable the execution of the policy"
+        },
+        "allowedValues": [
+          "Audit",
+          "Deny",
+          "Disabled"
+        ],
+        "defaultValue": "Deny"
+      }
+    },
+    "policyRule": {
+      "if": {
+        "allOf": [
+          {
+            "field": "type",
+            "equals": "Microsoft.Authorization/roleDefinitions"
+          },
+          {
+            "field": "Microsoft.Authorization/roleDefinitions/type",
+            "notEquals": "BuiltInRole"
+          }
+        ]
+      },
+      "then": {
+        "effect": "[parameters('effect')]"
+      }
+    }
+  },
+  "name": "27c90c13-76d3-4106-89d9-990e306863b9"
+}
